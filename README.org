@@ -1,0 +1,11 @@
+
+* Dungeon World notes
+** 
+
+* World notes
+** [[file:world.org::*Places][Places]]
+** [[file:world.org::*Places][Places]]
+** [[file:world.org::*Gods][Gods]]
+
+* Session notes
+** [[session1.org][Session one]]
